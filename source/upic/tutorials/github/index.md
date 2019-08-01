@@ -35,6 +35,7 @@ sidebar:
 - 2.Select `repo` access permission,then scroll to the bottom of the page,hit `Generate token` button to make token.
   ![创建 Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-2.png)
 - 3.Copy the Token to uPic
+
 **Attention：This Token shows one time only!Keep it carefully,otherwise you need reset one~**
   ![Copy Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-3.png)
 
