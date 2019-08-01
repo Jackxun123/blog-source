@@ -25,7 +25,7 @@ sidebar:
 - `Branch`: `master` is the name of Branch by default,if you want to upload to others,please establish first.
 - `Token`: Github personal access tokens.
 - `Domain`: You can't set domian name by default and will use your Github default URL.When you make the Rpeo's function of `pages` available and set up custom domain,you can use your own domain now.
-- `Other configuration`: At the end of `Domain`,click "gear" button will pop up detailed configuration of the URL which control file access.You can set up the path of file folders or the naming rule of files.
+- `Other configuration`: At the end of `Domain`,click the "gear" button will pop up detailed configuration of the URL which control file access.You can set up the path of file folders or the naming rule of files.
 
 ![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/githug-host-extension.png)
 
@@ -34,8 +34,8 @@ sidebar:
 - 1.Access [Github Token set page](https://github.com/settings/tokens/new)
 - 2.Select `repo` access permission,then scroll to the bottom of the page,hit `Generate token` button to make token.
   ![创建 Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-2.png)
-- 3.Copy Token to uPic
-  **Attention：this Token shows one time only!Keep it carefully,otherwise you need reset one~ **
+- 3.Copy the Token to uPic
+**Attention：This Token shows one time only!Keep it carefully,otherwise you need reset one~**
   ![Copy Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-3.png)
 
 ## 🌝 Almost there!
