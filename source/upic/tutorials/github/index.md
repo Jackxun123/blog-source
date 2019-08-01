@@ -18,8 +18,10 @@ sidebar:
 
 ## 📝 Configuration item
 
-- `Owner`: Github username.Example:My Github main page[https://github.com/gee1k](https://github.com/gee1k),my username is`gee1k`
-- `Repo`: The name of repo which you want to upload files.Example:my Repo's URL=[https://github.com/gee1k/oss](https://github.com/gee1k/oss),and `oss` is the name of Reop.
+- `Owner`: Github username.
+   Example:My Github main page[https://github.com/gee1k](https://github.com/gee1k),my username is`gee1k`
+- `Repo`: The name of repo which you want to upload files.
+   Example:my Repo's URL=[https://github.com/gee1k/oss](https://github.com/gee1k/oss),and `oss` is the name of Reop.
 - `Branch`: `master` is the name of Branch by default,if you want to upload to others,please establish first.
 - `Token`: Github personal access tokens.
 - `Domain`: You can't set domian name by default and will use your Github default URL.When you make the Rpeo's function of `pages` available and set up custom domain,you can use your own domain now.
@@ -29,10 +31,10 @@ sidebar:
 
 ## 🔑 Token - How can I get it
 
-- 1.access[Github Token set page](https://github.com/settings/tokens/new)
-- 2.select `repo` access permission,then scroll to the bottom of the page,hit `Generate token` button to make token.
+- 1.Access [Github Token set page](https://github.com/settings/tokens/new)
+- 2.Select `repo` access permission,then scroll to the bottom of the page,hit `Generate token` button to make token.
   ![创建 Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-2.png)
-- 3.copy Token to uPic
+- 3.Copy Token to uPic
   **Attention：this Token shows one time only!Keep it carefully,otherwise you need reset one~ **
   ![Copy Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-3.png)
 
@@ -46,6 +48,6 @@ sidebar:
 
 ## Wechat chatting group
   <small> ↓scan the QR code below and join in the group!↓ </small>
-<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
+      <img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
 
 <hr>
