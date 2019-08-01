@@ -19,7 +19,7 @@ sidebar:
 ## 📝 Configuration item
 
 - `Owner`: Github username.
-   Example:My Github main page[https://github.com/gee1k](https://github.com/gee1k),my username is`gee1k`
+   Example:My Github main page [https://github.com/gee1k](https://github.com/gee1k),my username is`gee1k`
 - `Repo`: The name of repo which you want to upload files.
    Example:my Repo's URL=[https://github.com/gee1k/oss](https://github.com/gee1k/oss),and `oss` is the name of Reop.
 - `Branch`: `master` is the name of Branch by default,if you want to upload to others,please establish first.
